@@ -65,7 +65,8 @@ a{
 }
 
 .white{
-	color: white;	
+	color: white;
+    	text-decoration: none;
 }
 
 .list{
